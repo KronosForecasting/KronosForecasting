@@ -2,12 +2,12 @@
 
 The file entitled Staph_aureus_Seasonality_Combined.py runs Kronos using .tfl files provided
 
-The remaining .csv files are input data and output data, the latter being mapped to a genome
+The remaining .csv files are input data data
 
 # Steps to Run Kronos
 
 1. Download the master branch
-2. Run the file "Staph_aureus_Seasonality_Combined.py"
+2. Run any of the four .py files
 3. Results are given as output to the console
 
 # Dependencies
